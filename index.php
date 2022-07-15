@@ -12,4 +12,4 @@ echo '<div class="line-it-button" data-lang="ja" data-type="share-a" data-env="R
 ?>
 </b></p>
 <hr>
-<p><a href="https://thinaticsystem.com/blog/article/12" target="_blank">使わせていただいたAPI</a></p>
+<p><a href="https://thinaticsystem.com/blog/article/12" target="_blank">使わせていただいたAPI</a> | <a href="https://github.com/handcreamde/nazonokotoba-gen/" target="_blank">申し訳程度のオープンソース(?)</a></p>
